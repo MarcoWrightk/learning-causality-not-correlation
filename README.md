@@ -16,9 +16,7 @@ Vanilla NN	Standard neural network	                             Generalization g
 IRM	Invariant Risk Minimization	                                 Performance stability
 Ablation	Component importance	                                 Contribution analysis
 
-
-<img width="1373" height="1582" alt="deepseek_mermaid_20260102_002d1a" src="https://github.com/user-attachments/assets/bc6f1eb7-1cbe-43f5-a532-312b0fd252e2" />
-
+<img width="1373" height="1582" alt="20260102_002d1a" src="https://github.com/user-attachments/assets/0af69f63-8302-4e78-8069-b0efaf800125" />
 
 
 
